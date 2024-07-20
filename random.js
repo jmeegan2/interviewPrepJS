@@ -1,3 +1,4 @@
-let name = "James"
+const person = "James"
 
-console.log(name)
+console.log(person)
+
