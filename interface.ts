@@ -1,9 +1,9 @@
 interface User {
     name: string;
-    age: symbol;
+    age: number;
   }
   
   let user: User = {
     name: "James",
-    age: $
+    age: 123
   };
